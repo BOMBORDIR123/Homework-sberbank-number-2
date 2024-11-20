@@ -1,4 +1,4 @@
-package HomeWork_2;
+package Number_2;
 
 import java.util.ArrayList;
 import java.util.HashMap;

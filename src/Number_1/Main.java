@@ -1,4 +1,4 @@
-package HomeWork_1;
+package Number_1;
 
 import java.util.Arrays;
 import java.util.Map;
