@@ -3,7 +3,7 @@ package Number_2;
 public class Main {
     public static void main(String[] args) {
         //Создание телефонного справочника
-        phoneDirectory directory = new phoneDirectory();
+        PhoneDirectory directory = new PhoneDirectory();
 
         //Добавление записей
         directory.add("Лысенко", "+7(989)-79-48");

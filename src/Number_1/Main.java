@@ -18,7 +18,7 @@ public class Main {
                 .collect(Collectors.groupingBy(Function.identity(), Collectors.counting()));
 
         //Вывод каждого слова и количетсво вхождений
-        System.out.println("Unique words and number of repetitions");
-        wordCounts.forEach((word, count) -> System.out.println(word + ": " + count + " times"));
+        System.out.println("Уникальные слова и количество повторений");
+        wordCounts.forEach((word, count) -> System.out.println(word + ": " + count + " повторения"));
     }
 }

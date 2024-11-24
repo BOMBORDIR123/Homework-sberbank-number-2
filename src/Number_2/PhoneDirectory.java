@@ -5,11 +5,11 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-public class phoneDirectory {
+public class PhoneDirectory {
     private Map<String, List<String>> directory;
 
     //Конструктор создания справочника
-    public phoneDirectory() {
+    public PhoneDirectory() {
         directory = new HashMap<>();
     }
 
